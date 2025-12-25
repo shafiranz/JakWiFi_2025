@@ -1,0 +1,10 @@
+# Key Insights & Recommendations
+
+The analysis process began with data preparation in Microsoft Excel. Raw data was summarized using Pivot Tables to obtain initial insights into WiFi service status and distribution. Slicers were applied to enable dynamic filtering by administrative areas, and charts were created to explore patterns and trends. After the data structure was finalized, the dataset was imported into Power BI, where it was developed into an interactive dashboard. The visualizations allow users to filter data by city within Jakarta and explore insights dynamically across multiple dimensions.
+
+The analysis shows that the majority of JakWiFi access points in 2025 are in an Online status, indicating that the program is largely operational and actively serving the public. However, a portion of access points remains in a Process status, reflecting ongoing installation or activation. The distribution of WiFi access points varies across districts, suggesting differences in population density, public activity, and infrastructure needs. High Online rates are observed in public facilities such as RPTRA, schools, and other priority locations, indicating that placement strategies are generally effective. From a provider perspective, several major service providers contribute a significant share of the deployed access points.
+
+Based on these findings, it is recommended to prioritize the completion of access points that are still in the Process status, particularly in high-demand areas. Further evaluation of service distribution should be conducted to improve coverage in districts with relatively fewer active access points. The current strategy of deploying WiFi in public facilities should be maintained and expanded, as it demonstrates strong service availability. This dashboard can be used as a continuous monitoring tool to support informed, data-driven decisions regarding future infrastructure development.
+
+<img width="1119" height="626" alt="image" src="https://github.com/user-attachments/assets/450424c6-8c38-4bbb-ba5d-6b8397add087" />
+
