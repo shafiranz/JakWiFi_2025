@@ -6,5 +6,5 @@ The analysis shows that the majority of JakWiFi access points in 2025 are in an 
 
 Based on these findings, it is recommended to prioritize the completion of access points that are still in the Process status, particularly in high-demand areas. Further evaluation of service distribution should be conducted to improve coverage in districts with relatively fewer active access points. The current strategy of deploying WiFi in public facilities should be maintained and expanded, as it demonstrates strong service availability. This dashboard can be used as a continuous monitoring tool to support informed, data-driven decisions regarding future infrastructure development.
 
-<img width="1119" height="626" alt="image" src="https://github.com/user-attachments/assets/450424c6-8c38-4bbb-ba5d-6b8397add087" />
+<img width="1158" height="650" alt="image" src="https://github.com/user-attachments/assets/59ed55c4-bfb5-4eef-9339-96b6181c9d47" />
 
